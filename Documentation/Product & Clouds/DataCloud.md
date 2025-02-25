@@ -1,3 +1,5 @@
+[Table of Contents](../Documentation.md)
+
 # Platform
 
 The Platform allows the organization and unification of data across Salesforce and external sources, enabling personalization and engagement through audience segment creation and identity resolution.
