@@ -16,4 +16,4 @@ It requires to highlight the following informations:
 
 ## Example
 
-![Data Model](../Images/CTA-DataModel.png)
+![Data Model](.../Images/CTA-DataModel.png)
