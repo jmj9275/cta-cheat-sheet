@@ -28,3 +28,4 @@
 | Routing | | | ✅ |
 | Extract, transform, and load | | | ✅ |
 | Long Polling | ✅ (required for platform events) | | |
+

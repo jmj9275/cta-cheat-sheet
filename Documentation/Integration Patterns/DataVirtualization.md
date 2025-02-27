@@ -4,7 +4,6 @@
 
 ## Description
 
-
 ## Solutions
 
 
@@ -28,3 +27,4 @@
 | Routing | | | ✅ |
 | Extract, transform, and load | | | ✅ |
 | Long Polling | | | ✅ |
+

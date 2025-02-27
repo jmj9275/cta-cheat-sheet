@@ -1,6 +1,5 @@
 [Table of Contents](../Documentation.md)
 
-
 # Request & Reply
 
 ## Description

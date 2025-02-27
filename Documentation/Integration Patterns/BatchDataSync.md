@@ -36,3 +36,4 @@
 | Routing | | ✅ | |
 | Extract, transform, and load | ✅ | | |
 | Long Polling | ✅ (required for Salesforce Change Data Capture) | | |
+

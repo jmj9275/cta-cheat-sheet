@@ -29,3 +29,4 @@
 | Routing | | | ✅ |
 | Extract, transform, and load | | ✅ (for bulk/batches) | |
 | Long Polling | | | ✅ |
+
