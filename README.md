@@ -1,5 +1,5 @@
 
-[Table of Contents](../Documentation.md)
+[Table of Contents](./Documentation/Documentation.md)
 
 # Certified Technical Architect (CTA) - Personal Notes
 
