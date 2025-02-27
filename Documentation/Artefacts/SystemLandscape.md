@@ -14,7 +14,7 @@ It should contain:
 
 # Example
 
-![System Landscape](/Images/CTA-SystemLandscape.png)
+![System Landscape](../../Images/CTA-SystemLandscape.png)
 
 
-![Other System Landscape](/Images/CTA-SystemLandscape2.png)
+![Other System Landscape](../../Images/CTA-SystemLandscape2

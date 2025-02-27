@@ -8,7 +8,7 @@ The objective of this section is to describe the data migration process includin
 
 ## Examples
 
-![Data Migration](/Images/CTA-DataMigration.png)
+![Data Migration](../../Images/CTA-DataMigration.png)
 
 
-![Other Data Migration](/Images/CTA-Data%20Migration2.png)
+![Other Data Migration](../../Images/CTA-Data%20Migration2.png)

@@ -11,4 +11,4 @@ It should not be fully described. You only need to be able to explain it.
 
 ## Example
 
-![Role Hierarchy](/Images/CTA-RoleHierarchy.png)
+![Role Hierarchy](../../Images/CTA-RoleHierarchy.png)

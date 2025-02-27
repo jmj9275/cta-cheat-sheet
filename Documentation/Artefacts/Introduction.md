@@ -18,4 +18,4 @@ It should contain the following information:
 
 ## Example
 
-![Introduction](/Images/CTA-Introduction.png)
+![Introduction](../../Images/CTA-Introduction.png)

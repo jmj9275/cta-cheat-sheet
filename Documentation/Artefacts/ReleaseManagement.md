@@ -16,4 +16,4 @@ The diagram should contain this minimum information:
 
 ## Example
 
-![Release Management](/Images/CTA-ReleaseManagement.png)
+![Release Management](../../Images/CTA-ReleaseManagement.png)

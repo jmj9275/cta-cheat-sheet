@@ -15,4 +15,4 @@ It should contain the following information:
 
 ## Example
 
-![Governance](/Images/CTA-Governance.png)
+![Governance](../../Images/CTA-Governance.png)
