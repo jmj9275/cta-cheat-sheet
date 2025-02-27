@@ -17,4 +17,4 @@ It should contain:
 ![System Landscape](../../Images/CTA-SystemLandscape.png)
 
 
-![Other System Landscape](../../Images/CTA-SystemLandscape2
+![Other System Landscape](../../Images/CTA-SystemLandscape2.png)
