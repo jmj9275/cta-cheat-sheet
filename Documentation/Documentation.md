@@ -4,19 +4,19 @@
 - [Salesforce Editions](./Licences/Overview.md)
 
 ### Sales Cloud
-- [Data Model](./Sales%20Cloud/DataModel.md)
-- [Main Features](./Sales%20Cloud/MainFeatures.md)
+- [Data Model](./Sales_Cloud/DataModel.md)
+- [Main Features](./Sales_Cloud/MainFeatures.md)
 
 ### Service Cloud
-- [Data Model](./Service%20Cloud/DataModel.md)
-- [Main Features](./Service%20Cloud/MainFeatures.md)
+- [Data Model](./Service_Cloud/DataModel.md)
+- [Main Features](./Service_Cloud/MainFeatures.md)
 
 ### Experience Cloud
-- [Main Features](./Experience%20Cloud/MainFeatures.md)
+- [Main Features](./Experience_Cloud/MainFeatures.md)
 
 ### Mobile Architecture
-- [Salesforce Mobile App](./Mobile%20Architecture/SalesforceMobileApp.md)
-- [Mobile Publisher](./Mobile%20Architecture/MobilePublisher.md)
+- [Salesforce Mobile App](./Mobile_Architecture/SalesforceMobileApp.md)
+- [Mobile Publisher](./Mobile_Architecture/MobilePublisher.md)
 
 ### Sharing
 - [Overview](./Sharing/Overview.md)
@@ -28,30 +28,30 @@
 - [Apex Sharing](./Sharing/ApexSharing.md)
 
 ### Authentication Flows
-- [Overview](./Authentication%20Flows/Overview.md)
-- [SSO - SAML Flow](./Authentication%20Flows/Saml.md)
-- [SSO - OpenId Connect Flow](./Authentication%20Flows/OpenIdConnect.md)
-- [OAuth2.0 - WebServer Flow](./Authentication%20Flows/WebServer.md)
-- [OAuth2.0 - User-Agent Flow](./Authentication%20Flows/UserAgent.md)
-- [OAuth2.0 - Refresh Token Flow](./Authentication%20Flows/RefreshToken.md)
-- [OAuth2.0 - Token Exchange Flow](./Authentication%20Flows/TokenExchange.md)
-- [OAuth2.0 - For Hybrid Apps](./Authentication%20Flows/HybridApps.md)
-- [OAuth2.0 - JWT Bearer Flow](./Authentication%20Flows/JWTBearer.md)
-- [OAuth2.0 - Client Credentials Flow](./Authentication%20Flows/ClientCredentials.md)
-- [OAuth2.0 - Device Flow](./Authentication%20Flows/Device.md)
-- [OAuth2.0 - Asset Token Flow](./Authentication%20Flows/AssetToken.md)
-- [OAuth2.0 - Username/Password Flow](./Authentication%20Flows/UsernamePassword.md)
-- [OAuth2.0 - SAML Bearer Assertion](./Authentication%20Flows/SamlBearerAssertion.md)
-- [OAuth2.0 - SAML Assertion Flow](./Authentication%20Flows/SamlAssertion.md)
+- [Overview](./Authentication_Flows/Overview.md)
+- [SSO - SAML Flow](./Authentication_Flows/Saml.md)
+- [SSO - OpenId Connect Flow](./Authentication_Flows/OpenIdConnect.md)
+- [OAuth2.0 - WebServer Flow](./Authentication_Flows/WebServer.md)
+- [OAuth2.0 - User-Agent Flow](./Authentication_Flows/UserAgent.md)
+- [OAuth2.0 - Refresh Token Flow](./Authentication_Flows/RefreshToken.md)
+- [OAuth2.0 - Token Exchange Flow](./Authentication_Flows/TokenExchange.md)
+- [OAuth2.0 - For Hybrid Apps](./Authentication_Flows/HybridApps.md)
+- [OAuth2.0 - JWT Bearer Flow](./Authentication_Flows/JWTBearer.md)
+- [OAuth2.0 - Client Credentials Flow](./Authentication_Flows/ClientCredentials.md)
+- [OAuth2.0 - Device Flow](./Authentication_Flows/Device.md)
+- [OAuth2.0 - Asset Token Flow](./Authentication_Flows/AssetToken.md)
+- [OAuth2.0 - Username/Password Flow](./Authentication_Flows/UsernamePassword.md)
+- [OAuth2.0 - SAML Bearer Assertion](./Authentication_Flows/SamlBearerAssertion.md)
+- [OAuth2.0 - SAML Assertion Flow](./Authentication_Flows/SamlAssertion.md)
 
 ### Integration Patterns
-- [Overview](./Integration%20Patterns/Overview.md)
-- [Request & Reply](./Integration%20Patterns/RequestAndReply.md)
-- [Fire & Forget](./Integration%20Patterns/FireAndForget.md)
-- [Batch Data Synchronization](./Integration%20Patterns/BatchDataSync.md)
-- [Remote Call-In](./Integration%20Patterns/RemoteCallIn.md)
-- [UI Update based on data changes](./Integration%20Patterns/UIUpdate.md)
-- [Data Virtualization](./Integration%20Patterns/DataVirtualization.md)
+- [Overview](./Integration_Patterns/Overview.md)
+- [Request & Reply](./Integration_Patterns/RequestAndReply.md)
+- [Fire & Forget](./Integration_Patterns/FireAndForget.md)
+- [Batch Data Synchronization](./Integration_Patterns/BatchDataSync.md)
+- [Remote Call-In](./Integration_Patterns/RemoteCallIn.md)
+- [UI Update based on data changes](./Integration_Patterns/UIUpdate.md)
+- [Data Virtualization](./Integration_Patterns/DataVirtualization.md)
 
 ### AppExchange
 - [Electronic Signature](./AppExchange/ElectronicSignature.md)
