@@ -3,7 +3,9 @@
 # Fire & Forget
 
 ## Description
+Purpose is to synchronize in near real time data between Salesforce and external systems with no need of synchronous acknoweldgement.
 
+Common use case is synchronization with data referentials.
 
 ## Solutions
 

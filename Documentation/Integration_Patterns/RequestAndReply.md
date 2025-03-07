@@ -3,7 +3,8 @@
 # Request & Reply
 
 ## Description
-
+Purpose of this pattern is to trigger an action or import data to an external system synchronously (real time).
+The caller expects a response that he can use to continue its process.
 
 ## Solutions
 

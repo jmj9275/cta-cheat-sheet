@@ -3,7 +3,7 @@
 # UI Update Based on Data Changes
 
 ## Description
-
+Purpose of this pattern is to refresh the data in the UI based on an event.
 
 ## Solutions
 

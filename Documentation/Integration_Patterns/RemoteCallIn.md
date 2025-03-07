@@ -3,7 +3,9 @@
 # Remote Call-In
 
 ## Description
+Purpose of this pattern is to import or execute actions in Salesforce from an external system.
 
+Use of salesforce standard or custom REST APIs and SOAP APIs.
 
 ## Solutions
 | Solution | Fit | Data Master | Comments                      |

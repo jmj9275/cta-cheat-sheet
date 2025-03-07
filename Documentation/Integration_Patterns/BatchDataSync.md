@@ -3,7 +3,9 @@
 # Batch Data Synchronization
 
 ## Description
+Purpose of this pattern is to mass query or mass import data between Salesforce and external systems.
 
+Generally, an ETL is used.
 
 ## Solutions
 

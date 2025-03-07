@@ -3,6 +3,10 @@
 # Data Virtualization
 
 ## Description
+Purpose of this pattern is to make external data available on the Salesforce UI.
+
+Common use of LWC and REST APis or Salesforce connect to display the data.
+
 
 ## Solutions
 
