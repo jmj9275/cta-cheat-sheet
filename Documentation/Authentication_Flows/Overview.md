@@ -6,8 +6,8 @@
 
 | Flow     | Use Case    |  Description                                       |
 |-------------|---------|-----------------------------------------------|
-| SSO - SAML Flow | Internal user login access | |
-| SSO - OpenId Connect Flow | Internal user login access | |
+| SSO - SAML Flow | Internal user login access | Use Salesforce as an IdP or an external IdP to authenticate internal users to the org |
+| SSO - OpenId Connect Flow | Internal user login access | Can be used for social sign-on (Google, Facebook etc...) for Experience cloud or for internal users with an external or internal IdP |
 | OAuth2.0 - WebServer Flow | Web app integraton | |
 | OAuth2.0 - User-Agent Flow | Desktop or mobile app integration | |
 | OAuth2.0 - Refresh Token Flow | Renewed Sessions; complementary to web server and user-agent flow | |
